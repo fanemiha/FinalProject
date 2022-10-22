@@ -4,17 +4,17 @@ This is a test suite written in Java designed to automatically test https://demo
 
 Functionalities and Web Elements tested:
 
-Links/n
-Buttons
-Forms
-Checkbox filters
+Links  
+Buttons  
+Forms  
+Checkbox filters  
 
 
-Technologies and Key Concepts:
+Technologies and Key Concepts:  
 
-Java
-Selenium
-TestNG
-OOP
-POM
-Intellij IDE
+Java  
+Selenium  
+TestNG  
+OOP  
+POM  
+Intellij IDE  
