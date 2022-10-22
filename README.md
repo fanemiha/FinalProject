@@ -4,7 +4,7 @@ This is a test suite written in Java designed to automatically test https://demo
 
 Functionalities and Web Elements tested:
 
-Links
+Links/n
 Buttons
 Forms
 Checkbox filters
